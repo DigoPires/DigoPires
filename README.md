@@ -1,4 +1,4 @@
-### Hi! 👋🏽 My name is Rodrigo.
+# Hi! 👋🏽 My name is Rodrigo.
 
 - 💻 I'm seeking my first experience in the field of programming!
 - 🌱 I’m currently learning Analysis and Systems Development at [@Senac](https://www.sp.senac.br/centro-universitario-senac-santo-amaro).
