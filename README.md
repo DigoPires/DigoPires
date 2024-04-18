@@ -1,4 +1,8 @@
-Oii 👋 
+### Hi! 👋🏽 My name is Rodrigo.
+
+- 💻 I'm currently seeking my first experience in the field of programming!
+- 🌱 I’m currently learning Analysis and Systems Development at @Senac.
+- 💬 Outside of my studies, I enjoy music, parties, working out at the gym, and playing games.
 
 <!--
 **DigoPires/DigoPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
