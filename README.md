@@ -6,15 +6,15 @@
 - 💼 LinkedIn - <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rodrigo-pires-figueiredo-a02768275?trk=profile-badge">Rodrigo Pires Figueiredo</a>
 
 ## 📚 Languages:
-![JavaScript](./assets/JScript.png)
-![HTML](./assets/html.png)
-![CSS](./assets/css.png)
-![C#](./assets/cSharp.png)
-![Python](./assets/python.png)
+![JavaScript](./assets/32px/JS.png)
+![HTML](./assets/32px/html.png)
+![CSS](./assets/32px/css.png)
+![C#](./assets/32px/CSharp.png)
+![Python](./assets/32px/python.png)
 
 ## 📚 Learning:
-![Java](./assets/java.png)
-![PHP](./assets/php.png)
+![Java](./assets/32px/java.png)
+![PHP](./assets/32px/php.png)
 
 <!--
 **DigoPires/DigoPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
