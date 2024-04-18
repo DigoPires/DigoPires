@@ -13,7 +13,7 @@
 ![Python](./assets/32px/python.png)
 
 ## 📚 Learning:
-![Java](./assets/32px/java.png)
+![Java](./assets/32px/)
 ![PHP](./assets/32px/php.png)
 
 <!--
