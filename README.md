@@ -9,7 +9,7 @@
 ![JavaScript](./assets/JS.png)
 ![HTML](./assets/html.png)
 ![CSS](./assets/css.png)
-![C#](./assets/c#.png)
+![C#](./assets/cSharp.png)
 ![Python](./assets/python.png)
 
 ## 📚 Learning:
