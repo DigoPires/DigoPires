@@ -6,7 +6,7 @@
 - 💼 LinkedIn - <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rodrigo-pires-figueiredo-a02768275?trk=profile-badge">Rodrigo Pires Figueiredo</a>
 
 ## 📚 Languages:
-![JavaScript](./assets/JS.png)
+![JavaScript](./assets/JavaScript.png)
 ![HTML](./assets/html.png)
 ![CSS](./assets/css.png)
 ![C#](./assets/cSharp.png)
