@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Analysis and Systems Development at [@Senac](https://www.sp.senac.br/centro-universitario-senac-santo-amaro).
 - 💬 Outside of my studies, I enjoy music, parties, working out at the gym, and playing games.
 
-- 💼 LinkedIn: <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rodrigo-pires-figueiredo-a02768275?trk=profile-badge">Rodrigo Pires Figueiredo</a>
+- 💼 LinkedIn - <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rodrigo-pires-figueiredo-a02768275?trk=profile-badge">Rodrigo Pires Figueiredo</a>
 
 <!--
 **DigoPires/DigoPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
