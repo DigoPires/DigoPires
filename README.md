@@ -17,6 +17,8 @@
 ![PHP](./assets/32px/php.png)
 ![SQL](./assets/32px/sql-server.png.png)
 
+<!-- tete -->
+
 <!--
 **DigoPires/DigoPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
