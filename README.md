@@ -11,10 +11,10 @@
 ![CSS](./assets/32px/css.png)
 ![C#](./assets/32px/CSharp.png)
 ![Python](./assets/32px/python.png)
+![PHP](./assets/32px/php.png)
 
 ## 📚 Learning:
 ![Java](./assets/32px/java2.png)
-![PHP](./assets/32px/php.png)
 ![SQL](./assets/32px/sql-server.png)
 
 <!--
